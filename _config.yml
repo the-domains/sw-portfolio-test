@@ -1,0 +1,28 @@
+name: sw.portfolio.test
+favicon: null
+layout_spectrum: 0.6061612856574357
+typography_spectrum: 0.5329298255965114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3708849798422307
+  lightness: 0.24115954316221178
+  saturation: 0.6355889597907662
+  rhythmicContrast: 0.9171631413046271
+purpose: []
